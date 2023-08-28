@@ -5,3 +5,5 @@
 ### This is a header 3
 
 **Do touch to edit**
+
+![Image of Octocat](https://myoctocat.com/assets/images/octocat-outfit.png)
