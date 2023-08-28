@@ -17,3 +17,10 @@ Full name             Status                    GH Dev Pack          GH Campus E
 Geoffrey  Logovi      GitHubEducation student   Yes                  In-progress
 geoffreylgv@githu $
 ```
+
+## task list (checklist)
+- [x] step 1
+- [x] step 2
+- [x] step 3
+- [ ] step 4
+- [ ] step 5
